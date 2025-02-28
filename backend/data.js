@@ -1,5 +1,5 @@
 module.exports = {
-  data: [
+  data : [
     {
       question: "Who was King Ahab's wife?",
       option1: "Ruth",

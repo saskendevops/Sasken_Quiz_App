@@ -15,7 +15,7 @@ spec:
         paths:
           - path: /api/questions
             pathType: Prefix
-            backend:
+            backend: 
               service:
                 name: backend-service
                 port:   
